@@ -1,0 +1,7 @@
+trip	stop	request_id	site_id	site_name	priority	crates	leg_minutes	arrival	departure	trip_load
+1	1	SP-204	CL-D	Dune Urgent Care	urgent	2	5	07:35	07:43	2
+1	2	SP-203	CL-C	Cedar Dialysis	routine	5	4	07:47	08:07	7
+2	1	SP-201	CL-A	Alder Family Practice	urgent	4	6	08:36	08:52	4
+2	2	SP-206	CL-F	Fern Oncology	urgent	3	5	08:57	09:09	7
+3	1	SP-205	CL-E	Elm Women's Health	routine	4	7	09:37	09:53	4
+3	2	SP-202	CL-B	Birch Pediatrics	routine	3	6	09:59	10:11	7
