@@ -1,0 +1,12 @@
+request_id,site_id,site_name,service_date,ready_at,crates,priority,status
+SP-201,CL-A,Alder Family Practice,2102-08-14,07:05,4,urgent,ready
+SP-202,CL-B,Birch Pediatrics,2102-08-14,06:55,3,routine,ready
+SP-203,CL-C,Cedar Dialysis,2102-08-14,07:15,5,routine,ready
+SP-204,CL-D,Dune Urgent Care,2102-08-14,07:20,2,urgent,ready
+SP-205,CL-E,Elm Women's Health,2102-08-14,06:50,4,routine,ready
+SP-206,CL-F,Fern Oncology,2102-08-14,07:00,3,urgent,ready
+SP-207,CL-A,Alder Family Practice,2102-08-15,07:00,1,urgent,ready
+SP-208,CL-B,Birch Pediatrics,2102-08-14,07:10,1,urgent,pending
+SP-209,CL-C,Cedar Dialysis,2102-08-14,07:45,1,urgent,ready
+SP-210,CL-D,Dune Urgent Care,2102-08-14,07:10,03,routine,ready
+SP-211,CL-Z,Unknown Clinic,2102-08-14,07:10,2,routine,ready

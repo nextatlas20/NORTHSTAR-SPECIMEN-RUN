@@ -1,0 +1,20 @@
+{
+  "sites": {
+    "HUB": "Northstar Laboratory",
+    "CL-A": "Alder Family Practice",
+    "CL-B": "Birch Pediatrics",
+    "CL-C": "Cedar Dialysis",
+    "CL-D": "Dune Urgent Care",
+    "CL-E": "Elm Women's Health",
+    "CL-F": "Fern Oncology"
+  },
+  "minutes": {
+    "HUB": {"HUB": 0, "CL-A": 6, "CL-B": 8, "CL-C": 10, "CL-D": 5, "CL-E": 7, "CL-F": 9},
+    "CL-A": {"HUB": 7, "CL-A": 0, "CL-B": 5, "CL-C": 8, "CL-D": 6, "CL-E": 4, "CL-F": 5},
+    "CL-B": {"HUB": 8, "CL-A": 5, "CL-B": 0, "CL-C": 6, "CL-D": 5, "CL-E": 6, "CL-F": 4},
+    "CL-C": {"HUB": 11, "CL-A": 8, "CL-B": 6, "CL-C": 0, "CL-D": 4, "CL-E": 7, "CL-F": 6},
+    "CL-D": {"HUB": 6, "CL-A": 6, "CL-B": 5, "CL-C": 4, "CL-D": 0, "CL-E": 7, "CL-F": 8},
+    "CL-E": {"HUB": 7, "CL-A": 4, "CL-B": 6, "CL-C": 7, "CL-D": 7, "CL-E": 0, "CL-F": 5},
+    "CL-F": {"HUB": 9, "CL-A": 5, "CL-B": 4, "CL-C": 6, "CL-D": 8, "CL-E": 5, "CL-F": 0}
+  }
+}
